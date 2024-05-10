@@ -1,0 +1,38 @@
+{
+  "*.js": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.jsx": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.ts": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.tsx": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.json": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.css": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.scss": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.html": [
+    "prettier --write",
+    "git add"
+  ],
+  "*.md": [
+    "prettier --write",
+    "git add"
+  ]
+}
